@@ -1,5 +1,5 @@
 {
-    "name": "openpsa/fi-protie-navigation,
+    "name": "openpsa/fi-protie-navigation",
     "type": "midcom-package",
     "description": "Versatile class for drawing navigation elements",
     "keywords": ["midcom", "navigation"],
